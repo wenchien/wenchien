@@ -4,7 +4,8 @@
 
 I am a Java developer that loves streamlining / automating processes! If it's time-comsuming and there's a pattern, it can be automated regardless of its complexity! Projects are either built from scratch or made from other similar projects with major overhaul / improvement.
 
-I'll be staying in US starting from 11/19/2022. LinkedIn: www.linkedin.com/in/wen-chien-chang
+I'll be staying in US starting from 11/19/2022. 
+See my [LinkedIn](www.linkedin.com/in/wen-chien-chang)!
 
 ---
 
